@@ -1,16 +1,20 @@
 
 
 body {
-    background-color: aqua;
+    background-color: green;
     margin: 0;
 }
 
 h1 {
     font-family: 'Libre Baskerville', serif;
+    font-size: 8em !important;
+    color: #efefef;
 }
 
 h2 {
     font-family: 'Raleway', sans-serif;
+    font-size: 6em !important;
+    color: #efefef;
 }
 
 #hero-bg {
@@ -19,12 +23,13 @@ h2 {
     width: 100%;
     background-repeat: no-repeat;
     background-position: bottom;
+    background-size: cover;
     position: relative;
 }
 
 #hero-div {
     position: absolute;
-    top: 25%;
-    right: 25%;
+    top: 50%;
+    right: 10%;
     text-align: left;
 }
