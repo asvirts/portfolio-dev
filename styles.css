@@ -5,8 +5,16 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
 #hero-bg {
-    background-image: url('vinicius-amnx-amano.jpg');
+    background-image: url('assets/img/jonathan-kemper-unsplash.jpg');
     height: 1200px;
     width: 100%;
     background-repeat: no-repeat;
