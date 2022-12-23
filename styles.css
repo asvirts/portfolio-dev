@@ -1,3 +1,22 @@
+
+
 body {
     background-color: aqua;
+    margin: 0;
+}
+
+#hero-bg {
+    background-image: url('vinicius-amnx-amano.jpg');
+    height: 1200px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    position: relative;
+}
+
+#hero-div {
+    position: absolute;
+    top: 25%;
+    right: 25%;
+    text-align: left;
 }
